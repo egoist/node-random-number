@@ -1,6 +1,6 @@
 {
   "name": "node-random-number",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate one or more random unique numbers in a range.",
   "license": "MIT",
   "repository": "egoist/node-random-number",
