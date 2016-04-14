@@ -1,4 +1,6 @@
-# node-random-number [![NPM version](https://img.shields.io/npm/v/node-random-number.svg)](https://npmjs.com/package/node-random-number) [![NPM downloads](https://img.shields.io/npm/dm/node-random-number.svg)](https://npmjs.com/package/node-random-number) [![Build Status](https://img.shields.io/circleci/project/egoist/node-random-number/master.svg)](https://circleci.com/gh/egoist/node-random-number) ![testen badge](https://img.shields.io/badge/testen-passing-brightgreen.svg)
+# node-random-number [![NPM version](https://img.shields.io/npm/v/node-random-number.svg)](https://npmjs.com/package/node-random-number) [![NPM downloads](https://img.shields.io/npm/dm/node-random-number.svg)](https://npmjs.com/package/node-random-number) [![testen badge](https://img.shields.io/badge/testen-passing-brightgreen.svg)][testen repo]
+
+[testen repo]: https://github.com/egoist/testen
 
 > Generate one or more random unique numbers in a range.
 
