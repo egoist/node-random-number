@@ -18,7 +18,7 @@ random()
 //=> [58]
 
 random({start: 3, end: 9})
-//=> 7
+//=> [7]
 
 random({count: 3})
 //=> [2, 37, 87]
